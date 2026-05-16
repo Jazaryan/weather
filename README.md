@@ -1,14 +1,14 @@
-# Weather [LIVE](https://hovoghazaryan.github.io/weather/)
+# Weather [LIVE](https://jazaryan.github.io/weather/)
 The small web site for see weather now in different countries and cities
 ---
 ## Contributors
 
-- Hovhannes Ghazaryan
+- Jazaryan
 
 ---
 
 ## License & copyright
 
-© Hovhannes Ghazaryan
+© Jazaryan
 
 Licensed under the [MIT License](LICENSE).
